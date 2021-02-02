@@ -1,5 +1,5 @@
 # Fifa-21 overview
-* Note: You can view the outputs since they are not visible in the [ipyng](https://github.com/herkura/Fifa-21-Eda/blob/main/fifa_21_eda.ipynb) file.
+* Note: You can view the outputs  here, since they are not visible in the [ipyng](https://github.com/herkura/Fifa-21-Eda/blob/main/fifa_21_eda.ipynb) file.
  # Introduction
 ![](https://images.daznservices.com/di/library/GOAL/76/63/embed-only-fifa-21-standard-cover-kylian-mbappe_e7cztf9wbiv01asqo9kt24gf2.jpg?t=1998970947&w=1525&h=1900)
 FIFA is a series of association football simulation video games developed and released annually by Electronic Arts under the EA Sports label. Football video games such as Sensible Soccer, Kick Off and Match Day had been developed since the late 1980s and already competitive in the games market when EA Sports announced a football game as the next addition to their EA Sports label. The Guardian called the series "the slickest, most polished and by far the most popular football game around".
